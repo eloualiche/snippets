@@ -1,0 +1,9 @@
+# .gitignore file snippets project
+#
+
+log
+
+
+# ---------------------------------------------
+# IGNORE SOME SPECIFIC DATA
+data/iv_interact_fe_test.dta
